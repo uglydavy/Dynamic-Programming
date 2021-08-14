@@ -15,3 +15,4 @@ const howSum = ( target, box ) => {
 
 console.log( howSum(7, [5, 3, 4, 7]) )
 console.log( howSum(8, [2, 3, 5]) )
+console.log( howSum(0, [51, 7]) )
